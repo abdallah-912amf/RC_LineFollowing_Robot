@@ -91,5 +91,5 @@ Feel free to fork the repo, open issues, or reach out if you’re working on a s
 
 ---
 ## 🙌 Note
-> 🛠️ This repository documents the full technical work, design, and code developed personally by<> **Abdallah Mousa**, as part of a larger university project.
+> 🛠️ This repository documents the full technical work, design, and code developed personally by<br> **Abdallah Mousa**, as part of a larger university project.
 ---
